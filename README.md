@@ -1,5 +1,5 @@
-WHO ARE YOU AND WHAT DO YOU STAND FOR
-=================
+# FLEXBOX PRACTICE SITE
 
+Students during Girls Who Code's virtual summer immersion program are learning Flexbox to change the layout of their webpage!
 
-Like it says. Who are you and what do you stand for? Take this personality "TEST" to find out.
+You too can play around with containers and children with inspiration from this [excellent resource!]("https://css-tricks.com/snippets/css/a-guide-to-flexbox/")
